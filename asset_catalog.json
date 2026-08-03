@@ -1,0 +1,1310 @@
+{
+  "version": "1.0",
+  "library_id": "sovietjokes",
+  "repository": "https://github.com/zycui211382-a11y/sovietjokes-assets",
+  "raw_base_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main",
+  "billing_note": "Downloading these references is free. Calls to external generation APIs may be billed separately.",
+  "summary": {
+    "characters": 29,
+    "complete_character_pairs": 28,
+    "scenes": 25,
+    "complete_scene_pairs": 25,
+    "unmatched": [
+      "character:年轻工人"
+    ],
+    "hosted_files": 107,
+    "hosted_bytes": 149653397
+  },
+  "characters": [
+    {
+      "id": "character:Joseph-Stalin",
+      "kind": "character",
+      "display_name": "Joseph-Stalin",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1800988,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-Joseph-Stalin-主图.jpg",
+        "path": "characters/character-001/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-001/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 456555,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-Joseph-Stalin-三视图.jpg",
+        "path": "characters/character-001/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-001/full.jpg"
+      }
+    },
+    {
+      "id": "character:KGB少校",
+      "kind": "character",
+      "display_name": "KGB少校",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1766480,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-KGB少校-主图.jpg",
+        "path": "characters/character-002/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-002/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 438291,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-KGB少校-三视图.jpg",
+        "path": "characters/character-002/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-002/full.jpg"
+      }
+    },
+    {
+      "id": "character:Konstantin-Chernenko",
+      "kind": "character",
+      "display_name": "Konstantin-Chernenko",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1669758,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-Konstantin-Chernenko-主图.jpg",
+        "path": "characters/character-003/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-003/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 480606,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-Konstantin-Chernenko-三视图.jpg",
+        "path": "characters/character-003/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-003/full.jpg"
+      }
+    },
+    {
+      "id": "character:Leonid-Brezhnev",
+      "kind": "character",
+      "display_name": "Leonid-Brezhnev",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1638386,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-Leonid-Brezhnev-主图.jpg",
+        "path": "characters/character-004/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-004/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 503423,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-Leonid-Brezhnev-三视图.jpg",
+        "path": "characters/character-004/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-004/full.jpg"
+      }
+    },
+    {
+      "id": "character:Nikita-Khrushchev",
+      "kind": "character",
+      "display_name": "Nikita-Khrushchev",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1692225,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-Nikita-Khrushchev-主图.jpg",
+        "path": "characters/character-005/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-005/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 438105,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-Nikita-Khrushchev-三视图.jpg",
+        "path": "characters/character-005/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-005/full.jpg"
+      }
+    },
+    {
+      "id": "character:Radio-Yerevan-播音员",
+      "kind": "character",
+      "display_name": "Radio-Yerevan-播音员",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1843863,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-Radio-Yerevan-播音员-主图.jpg",
+        "path": "characters/character-006/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-006/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 445775,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-Radio-Yerevan-播音员-三视图.jpg",
+        "path": "characters/character-006/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-006/full.jpg"
+      }
+    },
+    {
+      "id": "character:Vladimir-Lenin",
+      "kind": "character",
+      "display_name": "Vladimir-Lenin",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1564581,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-Vladimir-Lenin-主图.jpg",
+        "path": "characters/character-007/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-007/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 466015,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-Vladimir-Lenin-三视图.jpg",
+        "path": "characters/character-007/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-007/full.jpg"
+      }
+    },
+    {
+      "id": "character:Yuri-Andropov",
+      "kind": "character",
+      "display_name": "Yuri-Andropov",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1532947,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-Yuri-Andropov-主图.jpg",
+        "path": "characters/character-008/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-008/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 414886,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-Yuri-Andropov-三视图.jpg",
+        "path": "characters/character-008/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-008/full.jpg"
+      }
+    },
+    {
+      "id": "character:勃列日涅夫的母亲",
+      "kind": "character",
+      "display_name": "勃列日涅夫的母亲",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1661458,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-勃列日涅夫的母亲-主图.jpg",
+        "path": "characters/character-009/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-009/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 511741,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-勃列日涅夫的母亲-三视图.jpg",
+        "path": "characters/character-009/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-009/full.jpg"
+      }
+    },
+    {
+      "id": "character:年轻工人",
+      "kind": "character",
+      "display_name": "年轻工人",
+      "complete": false,
+      "main": {
+        "format": "PNG",
+        "width": 816,
+        "height": 1456,
+        "bytes": 794525,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-年轻工人-主图.png",
+        "path": "characters/character-010/main.png",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-010/main.png"
+      },
+      "supplement": null
+    },
+    {
+      "id": "character:美国游客-外交官",
+      "kind": "character",
+      "display_name": "美国游客-外交官",
+      "complete": true,
+      "main": {
+        "format": "PNG",
+        "width": 816,
+        "height": 1456,
+        "bytes": 923391,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-美国游客-外交官-主图.png",
+        "path": "characters/character-011/main.png",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-011/main.png"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 452343,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-美国游客-外交官-三视图.jpg",
+        "path": "characters/character-011/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-011/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联党务官员",
+      "kind": "character",
+      "display_name": "苏联党务官员",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1748403,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联党务官员-主图.jpg",
+        "path": "characters/character-012/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-012/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 440632,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联党务官员-三视图.jpg",
+        "path": "characters/character-012/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-012/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联农民",
+      "kind": "character",
+      "display_name": "苏联农民",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 2182632,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联农民-主图.jpg",
+        "path": "characters/character-013/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-013/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2048,
+        "height": 1152,
+        "bytes": 708372,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联农民-三视图.jpg",
+        "path": "characters/character-013/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-013/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联商店店员",
+      "kind": "character",
+      "display_name": "苏联商店店员",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 2095254,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联商店店员-主图.jpg",
+        "path": "characters/character-014/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-014/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 449081,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联商店店员-三视图.jpg",
+        "path": "characters/character-014/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-014/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联囚犯-困惑新人",
+      "kind": "character",
+      "display_name": "苏联囚犯-困惑新人",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1887191,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联囚犯-困惑新人-主图.jpg",
+        "path": "characters/character-015/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-015/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 394650,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联囚犯-困惑新人-三视图.jpg",
+        "path": "characters/character-015/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-015/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联囚犯-紧张知识分子",
+      "kind": "character",
+      "display_name": "苏联囚犯-紧张知识分子",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1733612,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联囚犯-紧张知识分子-主图.jpg",
+        "path": "characters/character-016/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-016/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 440547,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联囚犯-紧张知识分子-三视图.jpg",
+        "path": "characters/character-016/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-016/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联囚犯-认命老囚犯",
+      "kind": "character",
+      "display_name": "苏联囚犯-认命老囚犯",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1848325,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联囚犯-认命老囚犯-主图.jpg",
+        "path": "characters/character-017/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-017/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 454988,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联囚犯-认命老囚犯-三视图.jpg",
+        "path": "characters/character-017/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-017/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联官僚恶魔",
+      "kind": "character",
+      "display_name": "苏联官僚恶魔",
+      "complete": true,
+      "main": {
+        "format": "PNG",
+        "width": 816,
+        "height": 1456,
+        "bytes": 1074303,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联官僚恶魔-主图.png",
+        "path": "characters/character-018/main.png",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-018/main.png"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 420997,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联官僚恶魔-三视图.jpg",
+        "path": "characters/character-018/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-018/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联官僚职员",
+      "kind": "character",
+      "display_name": "苏联官僚职员",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1947897,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联官僚职员-主图.jpg",
+        "path": "characters/character-019/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-019/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 514200,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联官僚职员-三视图.jpg",
+        "path": "characters/character-019/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-019/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联工厂厂长",
+      "kind": "character",
+      "display_name": "苏联工厂厂长",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1603190,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联工厂厂长-主图.jpg",
+        "path": "characters/character-020/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-020/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 441400,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联工厂厂长-三视图.jpg",
+        "path": "characters/character-020/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-020/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联工厂老工人",
+      "kind": "character",
+      "display_name": "苏联工厂老工人",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1763089,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联工厂老工人-主图.jpg",
+        "path": "characters/character-021/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-021/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 487985,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联工厂老工人-三视图.jpg",
+        "path": "characters/character-021/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-021/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联排队工人",
+      "kind": "character",
+      "display_name": "苏联排队工人",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1956933,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联排队工人-主图.jpg",
+        "path": "characters/character-022/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-022/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 483879,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联排队工人-三视图.jpg",
+        "path": "characters/character-022/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-022/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联排队老妇人",
+      "kind": "character",
+      "display_name": "苏联排队老妇人",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 2106388,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联排队老妇人-主图.jpg",
+        "path": "characters/character-023/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-023/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 518944,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联排队老妇人-三视图.jpg",
+        "path": "characters/character-023/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-023/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联教师",
+      "kind": "character",
+      "display_name": "苏联教师",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 2405164,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联教师-主图.jpg",
+        "path": "characters/character-024/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-024/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 477330,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联教师-三视图.jpg",
+        "path": "characters/character-024/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-024/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联教授",
+      "kind": "character",
+      "display_name": "苏联教授",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1583406,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联教授-主图.jpg",
+        "path": "characters/character-025/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-025/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 441624,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联教授-三视图.jpg",
+        "path": "characters/character-025/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-025/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联法官",
+      "kind": "character",
+      "display_name": "苏联法官",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 2190308,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联法官-主图.jpg",
+        "path": "characters/character-026/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-026/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 520993,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联法官-三视图.jpg",
+        "path": "characters/character-026/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-026/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联男学生",
+      "kind": "character",
+      "display_name": "苏联男学生",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1825870,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联男学生-主图.jpg",
+        "path": "characters/character-027/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-027/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 421866,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联男学生-三视图.jpg",
+        "path": "characters/character-027/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-027/full.jpg"
+      }
+    },
+    {
+      "id": "character:苏联记者",
+      "kind": "character",
+      "display_name": "苏联记者",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 1941375,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-苏联记者-主图.jpg",
+        "path": "characters/character-028/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-028/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 490141,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-苏联记者-三视图.jpg",
+        "path": "characters/character-028/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-028/full.jpg"
+      }
+    },
+    {
+      "id": "character:集体农庄主席",
+      "kind": "character",
+      "display_name": "集体农庄主席",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 1536,
+        "height": 2752,
+        "bytes": 2614308,
+        "source_path": "soviet_union_asset_CHAT/苏联笑话-角色-集体农庄主席-主图.jpg",
+        "path": "characters/character-029/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-029/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 543681,
+        "source_path": "soviet_union_asset_CHAT_FULL/苏联笑话-角色-集体农庄主席-三视图.jpg",
+        "path": "characters/character-029/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/characters/character-029/full.jpg"
+      }
+    }
+  ],
+  "scenes": [
+    {
+      "id": "scene:Radio-Yerevan-播音室",
+      "kind": "scene",
+      "display_name": "Radio-Yerevan-播音室",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2953247,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-Radio-Yerevan-播音室-主图.jpg",
+        "path": "scenes/scene-001/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-001/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 596986,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-Radio-Yerevan-播音室-多视图.jpg",
+        "path": "scenes/scene-001/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-001/full.jpg"
+      }
+    },
+    {
+      "id": "scene:凝固岁月的苏式车厢",
+      "kind": "scene",
+      "display_name": "凝固岁月的苏式车厢",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2869415,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-凝固岁月的苏式车厢-主图.jpg",
+        "path": "scenes/scene-002/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-002/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 501974,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-凝固岁月的苏式车厢-多视图.jpg",
+        "path": "scenes/scene-002/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-002/full.jpg"
+      }
+    },
+    {
+      "id": "scene:勃列日涅夫时代官方阳台",
+      "kind": "scene",
+      "display_name": "勃列日涅夫时代官方阳台",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2910411,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-勃列日涅夫时代官方阳台-主图.jpg",
+        "path": "scenes/scene-003/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-003/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 511661,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-勃列日涅夫时代官方阳台-多视图.jpg",
+        "path": "scenes/scene-003/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-003/full.jpg"
+      }
+    },
+    {
+      "id": "scene:卢比扬卡地下室审讯室",
+      "kind": "scene",
+      "display_name": "卢比扬卡地下室审讯室",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 3001276,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-卢比扬卡地下室审讯室-主图.jpg",
+        "path": "scenes/scene-004/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-004/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 453667,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-卢比扬卡地下室审讯室-多视图.jpg",
+        "path": "scenes/scene-004/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-004/full.jpg"
+      }
+    },
+    {
+      "id": "scene:灰调苏联排队长龙",
+      "kind": "scene",
+      "display_name": "灰调苏联排队长龙",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 3192107,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-灰调苏联排队长龙-主图.jpg",
+        "path": "scenes/scene-005/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-005/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 720615,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-灰调苏联排队长龙-多视图.jpg",
+        "path": "scenes/scene-005/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-005/full.jpg"
+      }
+    },
+    {
+      "id": "scene:肃穆的红场广场",
+      "kind": "scene",
+      "display_name": "肃穆的红场广场",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2933878,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-肃穆的红场广场-主图.jpg",
+        "path": "scenes/scene-006/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-006/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 566957,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-肃穆的红场广场-多视图.jpg",
+        "path": "scenes/scene-006/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-006/full.jpg"
+      }
+    },
+    {
+      "id": "scene:肃穆的苏式法庭",
+      "kind": "scene",
+      "display_name": "肃穆的苏式法庭",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2398921,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-肃穆的苏式法庭-主图.jpg",
+        "path": "scenes/scene-007/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-007/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 478781,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-肃穆的苏式法庭-多视图.jpg",
+        "path": "scenes/scene-007/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-007/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联党会议厅",
+      "kind": "scene",
+      "display_name": "苏联党会议厅",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2532353,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联党会议厅-主图.jpg",
+        "path": "scenes/scene-008/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-008/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 505124,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联党会议厅-多视图.jpg",
+        "path": "scenes/scene-008/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-008/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联国葬排队",
+      "kind": "scene",
+      "display_name": "苏联国葬排队",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2805108,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联国葬排队-主图.jpg",
+        "path": "scenes/scene-009/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-009/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 582949,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联国葬排队-多视图.jpg",
+        "path": "scenes/scene-009/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-009/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联地狱行政办公室",
+      "kind": "scene",
+      "display_name": "苏联地狱行政办公室",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2844218,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联地狱行政办公室-主图.jpg",
+        "path": "scenes/scene-010/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-010/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 475271,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联地狱行政办公室-多视图.jpg",
+        "path": "scenes/scene-010/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-010/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联官员想象中的西方商店橱窗",
+      "kind": "scene",
+      "display_name": "苏联官员想象中的西方商店橱窗",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 3058352,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联官员想象中的西方商店橱窗-主图.jpg",
+        "path": "scenes/scene-011/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-011/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 600602,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联官员想象中的西方商店橱窗-多视图.jpg",
+        "path": "scenes/scene-011/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-011/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联家庭厨房",
+      "kind": "scene",
+      "display_name": "苏联家庭厨房",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2686456,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联家庭厨房-主图.jpg",
+        "path": "scenes/scene-012/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-012/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 448776,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联家庭厨房-多视图.jpg",
+        "path": "scenes/scene-012/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-012/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联工人的老旧公寓",
+      "kind": "scene",
+      "display_name": "苏联工人的老旧公寓",
+      "complete": true,
+      "main": {
+        "format": "PNG",
+        "width": 1456,
+        "height": 816,
+        "bytes": 2279024,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联工人的老旧公寓-主图.png",
+        "path": "scenes/scene-013/main.png",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-013/main.png"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 535912,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联工人的老旧公寓-多视图.jpg",
+        "path": "scenes/scene-013/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-013/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联政府办公走廊",
+      "kind": "scene",
+      "display_name": "苏联政府办公走廊",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2802922,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联政府办公走廊-主图.jpg",
+        "path": "scenes/scene-014/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-014/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 562134,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联政府办公走廊-多视图.jpg",
+        "path": "scenes/scene-014/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-014/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联教室",
+      "kind": "scene",
+      "display_name": "苏联教室",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 3167251,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联教室-主图.jpg",
+        "path": "scenes/scene-015/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-015/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 535665,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联教室-多视图.jpg",
+        "path": "scenes/scene-015/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-015/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联旅馆房间",
+      "kind": "scene",
+      "display_name": "苏联旅馆房间",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2735137,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联旅馆房间-主图.jpg",
+        "path": "scenes/scene-016/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-016/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 435608,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联旅馆房间-多视图.jpg",
+        "path": "scenes/scene-016/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-016/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联汽车分配办公室",
+      "kind": "scene",
+      "display_name": "苏联汽车分配办公室",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2446149,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联汽车分配办公室-主图.jpg",
+        "path": "scenes/scene-017/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-017/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 451558,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联汽车分配办公室-多视图.jpg",
+        "path": "scenes/scene-017/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-017/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联监狱牢房",
+      "kind": "scene",
+      "display_name": "苏联监狱牢房",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2710401,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联监狱牢房-主图.jpg",
+        "path": "scenes/scene-018/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-018/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 448019,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联监狱牢房-多视图.jpg",
+        "path": "scenes/scene-018/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-018/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联证件服务窗口",
+      "kind": "scene",
+      "display_name": "苏联证件服务窗口",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2801025,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联证件服务窗口-主图.jpg",
+        "path": "scenes/scene-019/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-019/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 522589,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联证件服务窗口-多视图.jpg",
+        "path": "scenes/scene-019/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-019/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联阶梯教室",
+      "kind": "scene",
+      "display_name": "苏联阶梯教室",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2959161,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联阶梯教室-主图.jpg",
+        "path": "scenes/scene-020/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-020/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 513851,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联阶梯教室-多视图.jpg",
+        "path": "scenes/scene-020/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-020/full.jpg"
+      }
+    },
+    {
+      "id": "scene:苏联高官办公室",
+      "kind": "scene",
+      "display_name": "苏联高官办公室",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2953605,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-苏联高官办公室-主图.jpg",
+        "path": "scenes/scene-021/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-021/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 519275,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-苏联高官办公室-多视图.jpg",
+        "path": "scenes/scene-021/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-021/full.jpg"
+      }
+    },
+    {
+      "id": "scene:荒诞钉子工厂院子",
+      "kind": "scene",
+      "display_name": "荒诞钉子工厂院子",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 3561608,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-荒诞钉子工厂院子-主图.jpg",
+        "path": "scenes/scene-022/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-022/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 727960,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-荒诞钉子工厂院子-多视图.jpg",
+        "path": "scenes/scene-022/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-022/full.jpg"
+      }
+    },
+    {
+      "id": "scene:萧索的苏式配给铺",
+      "kind": "scene",
+      "display_name": "萧索的苏式配给铺",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 3131694,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-萧索的苏式配给铺-主图.jpg",
+        "path": "scenes/scene-023/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-023/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 605734,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-萧索的苏式配给铺-多视图.jpg",
+        "path": "scenes/scene-023/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-023/full.jpg"
+      }
+    },
+    {
+      "id": "scene:集体农庄办公室-粮仓",
+      "kind": "scene",
+      "display_name": "集体农庄办公室-粮仓",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 3076135,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-集体农庄办公室-粮仓-主图.jpg",
+        "path": "scenes/scene-024/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-024/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 563488,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-集体农庄办公室-粮仓-多视图.jpg",
+        "path": "scenes/scene-024/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-024/full.jpg"
+      }
+    },
+    {
+      "id": "scene:静止的苏联工厂车间",
+      "kind": "scene",
+      "display_name": "静止的苏联工厂车间",
+      "complete": true,
+      "main": {
+        "format": "JPEG",
+        "width": 2752,
+        "height": 1536,
+        "bytes": 2796682,
+        "source_path": "soviet_union_assets_GROUND/苏联笑话-场景-静止的苏联工厂车间-主图.jpg",
+        "path": "scenes/scene-025/main.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-025/main.jpg"
+      },
+      "supplement": {
+        "format": "JPEG",
+        "width": 2560,
+        "height": 1440,
+        "bytes": 526405,
+        "source_path": "soviet_union_asset_GROUND_FULL/苏联笑话-场景-静止的苏联工厂车间-多视图.jpg",
+        "path": "scenes/scene-025/full.jpg",
+        "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-025/full.jpg"
+      }
+    }
+  ]
+}
