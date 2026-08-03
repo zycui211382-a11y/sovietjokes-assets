@@ -1306,5 +1306,18 @@
         "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/scenes/scene-025/full.jpg"
       }
     }
+  ],
+  "style_references": [
+    {
+      "id": "storyboard:absurd-bureau-9x16",
+      "kind": "style_reference",
+      "display_name": "Absurd Bureau 3x3 vertical storyboard reference",
+      "path": "references/absurd-bureau-storyboard-9x16.jpg",
+      "raw_url": "https://raw.githubusercontent.com/zycui211382-a11y/sovietjokes-assets/main/references/absurd-bureau-storyboard-9x16.jpg",
+      "format": "JPEG",
+      "width": 1536,
+      "height": 2752,
+      "usage": "Layout and rendering style only; do not copy its people or story content."
+    }
   ]
 }

@@ -8,6 +8,7 @@
 - `characters/character-NNN/full.*`：人物三视图
 - `scenes/scene-NNN/main.*`：场景主图
 - `scenes/scene-NNN/full.*`：场景多视图
+- `references/`：公开的画风与分镜布局参考，不代表具体人物或剧情素材
 - `asset_catalog.json`：中文名称、本地原始相对路径、尺寸和 Raw URL 的机器可读索引
 
 当前共有 29 个人物、25 个场景和 107 张图片。人物“年轻工人”目前只有主图，尚缺三视图；其余人物和场景均已配对。
