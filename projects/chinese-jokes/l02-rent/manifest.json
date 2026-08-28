@@ -1,0 +1,57 @@
+{
+  "episode_id": "L02",
+  "generation_mode": "built-in image generation with local reference images",
+  "style_lock": "cinematic semi-realistic editorial illustration; grounded graphic-novel realism; restrained big-head proportion",
+  "assets": [
+    {
+      "file": "reference/tenant-anchor.png",
+      "role": "tenant identity and wardrobe anchor",
+      "width": 941,
+      "height": 1672,
+      "sha256": "30D8764518EC6DB875F97EE06335266F0978D590B0CEFF229699EA6E3F519418"
+    },
+    {
+      "file": "reference/landlord-anchor.png",
+      "role": "landlord identity and wardrobe anchor",
+      "width": 941,
+      "height": 1672,
+      "sha256": "6C6CAC5D8BDF95B9A2BB8E83F4E4AC1D7141BEF906C693EA6FE861770CEC607E"
+    },
+    {
+      "file": "reference/apartment-balcony-anchor.png",
+      "role": "environment, lighting, and prop anchor",
+      "width": 941,
+      "height": 1672,
+      "sha256": "824828ECF79C435DB7CB44B18FC7DE3875AA82288BD0B5197E97A72E7F9C8B93"
+    },
+    {
+      "file": "reference/cold-open-keyframe-v2.png",
+      "role": "0.0-5.6 second staging anchor with AI-rendered RENT +20%? contract text",
+      "width": 941,
+      "height": 1672,
+      "sha256": "E861B75E4E647EF67DF51803973D4A867833A5E68AF33DCF77EDBB2F7C9A6044"
+    },
+    {
+      "file": "reference/reveal-keyframe.png",
+      "role": "5.6-11.3 second balcony reveal anchor",
+      "width": 941,
+      "height": 1672,
+      "sha256": "472F3CF84CAAAD6FB498CE6E1FDD45CD5840B515C9487BBDACF85330754573CB"
+    },
+    {
+      "file": "reference/punchline-keyframe-v2.png",
+      "role": "11.3-15.0 second sign and reaction anchor with AI-rendered PREMIUM BEDROOM plaque text",
+      "width": 941,
+      "height": 1672,
+      "sha256": "B8194F52BB733D3A4B8092770A854B017E6CEE85052A979C643F87C9588D0DDB"
+    }
+  ],
+  "constraints": {
+    "public_https_required_for_hfsy": true,
+    "watermark_free": true,
+    "diegetic_english_text_generated_in_keyframes": true,
+    "post_text_limited_to_dialogue_subtitles": true,
+    "hfsy_image_count": 6,
+    "hfsy_image_limit": 9
+  }
+}
